@@ -9,6 +9,6 @@ print (mgreet)
 mtext2= 'THIS IS A SAMPLE TEXT FILE TO CHECK MY KNOWLEDGE ON PYTHON-PROGRAMMING'
 print (mtext2)
 
-name1= 'james'
+name1= 'world'
 greet_p= 'good morning'
 print (greet_p + ', ' + name1)

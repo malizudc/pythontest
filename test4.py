@@ -20,7 +20,7 @@ elif your_score <= 80:
   print (f'CONGRATULATIONS YOU PASSED!!! your grade is {grade}')
 
 else:
-  grade= 'A'
+  grade= 'A'   
   print (f'CONGRATULATIONS YOU PASSED!!! your grade is {grade}')
 
  
